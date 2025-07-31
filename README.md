@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @MartinWinterSC
-- 👀 I’m interested in: Everything computer
-- 🌱 I’m currently learning: Multi-Media Design
-- 💞️ I’m looking to collaborate on: Nothing do not contact me
-- 📫 How to reach me: Bro just look up my name
+- 👀 I’m interested in: Everything computer and DnD
 - ⚡ Fun fact: I have lost multiple fights with inanimate objects
 
 <!---
